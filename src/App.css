@@ -1,0 +1,20 @@
+@font-face {
+  font-family: Imported;
+  src: url(./font/MonumentExtended-Regular.otf);
+}
+@font-face {
+  font-family: Silom;
+  src: url(./font/Silom.ttf);
+}
+
+.font-monumentExtended{
+  font-family: Imported;
+}
+.font-silom{
+  font-family: Silom;
+}
+.css-1l70ank-MuiTooltip-tooltip{
+  opacity: 0.0;
+}
+
+
